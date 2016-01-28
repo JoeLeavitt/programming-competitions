@@ -2,3 +2,4 @@
 
 * Week 1: Brute Force
 * Week 2: Greedy Algorithms
+* Week 3: Trees
