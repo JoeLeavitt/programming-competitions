@@ -4,5 +4,5 @@
 * Week 2: Greedy Algorithms
 * Week 3: Trees
 * Week 4: Graph I (BFS, DFS, Kruskal's, Prim's, Disjoint Sets)
-* Week 5: Graph II (Floyd Warshall, Bellman-Ford, Dijkstra's)
+* Week 5: Graph II (Floyd Warshall, Bellman-Ford, Dijkstra's, Topological Sort)
 * Week 6: Math (GCD, LCM, MCSS, Prime Sieve)
